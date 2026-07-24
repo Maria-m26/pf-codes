@@ -46,4 +46,4 @@ Ye repository/assignment **Programming Fundamentals** course ke 20 chote C++ pro
 4. Output console mein dikh jayega
 
 ## Author
-Iqra — Software Engineering, Superior University, Lahore
+Maria — Software Engineering, Superior University, Lahore
